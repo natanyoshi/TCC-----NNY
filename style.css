@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+* {
+    border: none;
+    margin: 0;
+    padding: 0; 
+    font-family: 'Montserrat';
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.navbar1 {
+    box-sizing: border-box;
+    border: none;
+    padding: 5px;
+    background-color: rgb(183, 255, 0);
+    width: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    align-items: center;
+}
+
+.navbar1 a {
+    color: black
+}
+
+.navbar1 h3 :hover {
+    color: rgb(9, 130, 41);
+} 
+
+.cont1 {
+    margin: 20px;
+}
+
+.cont2 {
+    margin: 20px;
+}
+
+.header {
+    background-image: url('https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1280,h=720,fit=cover,format=jpeg/wp-content/uploads/2023/07/capuccino-caseiro-1.jpg');
+    background-size: 100%;
+    height: 720px;
+    width: 100%;
+    background-repeat: no-repeat;
+}
+
+.cr1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: larger;
+}
+
+.main h1{
+    font-size: xx-large;
+    color: white;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.links1 {
+    margin-left: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.titulo2 {
+    display: flex;
+    align-items: center;
+}
+
+.s1 {
+    margin-left: 370px;
+}
+
+.s2 {
+    margin-left: 130px;
+}
+
+.s3 {
+    margin-left: 140px;
+}
+
+.s4{
+    margin-left: 100px;
+}
+
+.links1 img {
+    border-radius: 20px;
+}
+
+.links1 a{
+    color: black;
+    padding: 5px;
+    margin: 5px;
+    border: 5px;
+}
+
+.links1 :hover {
+    color: blue;
+}
+
+.hist1 {
+    margin-left: 100px;
+    padding: 25px;
+    box-sizing: border-box;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer {
+    font-size: larger;
+    background-color: #ca2222;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: relative; 
+    height: 160px;
+}
+
