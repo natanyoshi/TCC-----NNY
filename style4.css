@@ -43,9 +43,9 @@
 }
 
 .header4 {
-  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhJCK-niB8nDkIxQcSNv9B1FuvP0oAU51n4A&s');
+  background-image: url('https://st3.depositphotos.com/1063437/16054/i/450/depositphotos_160546204-stock-photo-bottles-of-assorted-global-soft.jpg');
   background-size: 100%;
-  height: 720px;
+  height: 970px;
   width: 100%;
   color: black;
   background-repeat: no-repeat;
@@ -177,5 +177,5 @@
   text-align: center;
   padding: 10px;
   position: relative; 
-  height: 160px;
+  height: fit-content;
 }
