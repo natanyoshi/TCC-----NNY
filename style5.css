@@ -52,7 +52,7 @@
 
 .main h1{
   font-size: xx-large;
-  color: white;
+  color: rgb(0, 0, 0);
   padding: 20px;
   display: flex;
   align-items: center;
